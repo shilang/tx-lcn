@@ -239,10 +239,10 @@ public class TxcServiceImpl implements TxcService {
                 }
             }
         } finally {
-            try {
-                DbUtils.close(resultSet);
-            } catch (SQLException ignored) {
-            }
+//            try {
+//                DbUtils.close(resultSet);
+//            } catch (SQLException ignored) {
+//            }
         }
 
         // save to db

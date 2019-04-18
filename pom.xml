@@ -333,9 +333,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/codingapi/tx-lcn.git</connection>
-        <developerConnection>scm:git:https://github.com/codingapi/tx-lcn.git</developerConnection>
-        <url>https://github.com/codingapi/tx-lcn</url>
+        <connection>scm:git:https://github.com/shilang/tx-lcn.git</connection>
+        <developerConnection>scm:git:https://github.com/shilang/tx-lcn.git</developerConnection>
+        <url>https://github.com/shilang/tx-lcn</url>
         <tag>v${project.version}</tag>
     </scm>
 
